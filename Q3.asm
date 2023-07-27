@@ -1,6 +1,4 @@
 
-#Author : Roy Stabinski
-
 #In this program at first we printed a friendly message to the user with a request to insert a string.
 #The program runs with a loop and comparing 2 following chars(i,i+1) by their ASCII code
 #and prints a string by the next conditions:
